@@ -1,1 +1,3 @@
-The journey isn't over yet.
+It's not yet time to rest.
+ /\_/\
+( o.o )
