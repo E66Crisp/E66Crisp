@@ -1,5 +1,5 @@
  ______________________________________
- It's not yet time to rest.. 
+  <h3> It's not yet time to rest.. </h3>
  --------------------------------------
  ```
  \
@@ -7,6 +7,10 @@
        (•ㅅ•)
        / 　 づ
 ```
+ ______________________________________
+ <h5>Contributions.. </h5>
+ --------------------------------------
+ </br>
 [![GitHub commit activity](https://img.shields.io/github/commit-activity/t/vuejs/core?authorFilter=E66Crisp&label=Vue&labelColor=44bd87&color=116329)](https://github.com/vuejs/core/commits?author=E66Crisp)
 [![GitHub commit activity](https://img.shields.io/github/commit-activity/t/vueuse/vueuse?authorFilter=E66Crisp&label=vueuse&labelColor=44bd87&color=116329)](https://github.com/vueuse/vueuse/commits?author=E66Crisp)</br>
 [![GitHub commit activity](https://img.shields.io/github/commit-activity/t/element-plus/element-plus?authorFilter=E66Crisp&label=element-plus&labelColor=409eff&color=116329)](https://github.com/element-plus/element-plus/commits?author=E66Crisp)</br>
